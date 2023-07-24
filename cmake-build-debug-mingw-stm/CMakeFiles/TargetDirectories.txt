@@ -1,0 +1,3 @@
+C:/stm32_workspace/ai_demo/cmake-build-debug-mingw-stm/CMakeFiles/ai_demo.elf.dir
+C:/stm32_workspace/ai_demo/cmake-build-debug-mingw-stm/CMakeFiles/edit_cache.dir
+C:/stm32_workspace/ai_demo/cmake-build-debug-mingw-stm/CMakeFiles/rebuild_cache.dir
